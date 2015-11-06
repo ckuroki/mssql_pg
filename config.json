@@ -1,0 +1,5 @@
+{
+"mssql": "DSN=SQLSERVER1;UID=sa;PWD=admin;",
+"pgsql": "user=postgres dbname=test host=10.0.2.2 sslmode=disable",
+"tables":["dbo.ARTICLES","dbo.CUSTOMERS"]
+}
